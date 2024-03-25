@@ -11,7 +11,7 @@ Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio,
 
 1. chiediamo all'utente i km che dovrà percorrere e che età abbia 
 
-2. calcolare il presso del biglietto in base ai dati inseriti 
+2. calcolare il prezzo del biglietto in base ai dati inseriti 
 
 
 ###  1. BLOCCO DATI INPUT 
@@ -21,11 +21,12 @@ Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio,
 
 
 ### 2. ESECUZIONE LOGICA 
-- [ ] calcoliamo prezzo del biglietto in base ai km percorsi 
-- [ ] applichiamo sconto per i minorenni se possibile 
-- [ ] applichiamo sconto per over 65 se possbile 
-- [ ] il prezzo finale non dovrà avere più di due cifre decimali 
+- [x] calcoliamo prezzo del biglietto in base ai km percorsi 
+- [x] se sono minorenni applichiamo sconto del 20%
+- [x] se sono over 65 applichiamo sconto del 40%
+ 
 
 ### 3. STAMPA DELL'OUTPUT 
-- [ ] stampo risultato dell'operazione in pagina 
+- [x] il prezzo finale non dovrà avere più di due cifre decimali
+- [x] stampo risultato dell'operazione in pagina 
  
